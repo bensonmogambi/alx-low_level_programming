@@ -34,6 +34,8 @@ void _is_zero(char *argv[])
 	}
 }
 
+
+
 /**
  * _initialize_array - set memery to zero in a new array
  * @ar: char array.
